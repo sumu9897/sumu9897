@@ -26,7 +26,7 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 Feel free to connect with me and explore my projects:
 
 - GitHub: [sumu9897](https://github.com/sumu9897)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/md-sumon9897/)
+- LinkedIn: [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
 - Twitter: [@sumu9897](https://twitter.com/sumu9897)
 
 If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out. I'm always open to new challenges and interesting projects!

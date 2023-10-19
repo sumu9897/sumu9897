@@ -15,9 +15,9 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 - **Automation Tools**: Selenium, Appium, JUnit, TestNG
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, Travis CI, GitLab CI
 - **Version Control**: Git
-- **Programming Languages**: Java, Python, JavaScript , C , C++ , PHP 
-- **Bug Tracking Tools**: Jira, Bugzilla
-- **API Testing**: Postman, REST Assured
+- **Programming Languages**: Java, Python , C , C++ , PHP, JavaScript 
+- **Bug Tracking Tools**: Jira
+- **API Testing**: Postman
 - **Test Management Tools**: TestRail, TestLink
 
 

@@ -21,6 +21,16 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 - **Test Management Tools**: TestRail, TestLink
 
 
+## Project
+- [Task Management System (Manual Testing)](https://github.com/sumu9897/Task-Management)
+- [Shajgoj (Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
+- [Easel Architects (Website Testing)](https://github.com/sumu9897/Easel-Architects)
+- [Khuje Dekhi (Website)](https://khujedekhi.com/)
+- [Hotel Management System (SQA Project)](https://github.com/sumu9897/S-Q-T)
+- [Product Management System (Website)](https://github.com/sumu9897/Product-Management-System)
+
+
+
 ## Let's Connect
 
 Feel free to connect with me and explore my projects:

@@ -11,7 +11,7 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 
 ## Skills
 
-- **Testing**: Manual and Automated Testing, Test Case Design, Test Planning, Regression Testing
+- **Testing**: Manual and Automated Testing, Test Case Design, Test Planning, Database Testing, Regression Testing
 - **Automation Tools**: Selenium, Appium, JUnit, TestNG
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, Travis CI, GitLab CI
 - **Version Control**: Git

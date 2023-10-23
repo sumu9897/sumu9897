@@ -16,7 +16,7 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, Travis CI, GitLab CI
 - **Version Control**: Git
 - **Programming Languages**: Java, Python , C , C++ , PHP, JavaScript
-- **Framework **: Laraval
+- **Framework**: Laravel
 - **Bug Tracking Tools**: Jira
 - **API Testing**: Postman
 - **Test Management Tools**: TestRail, TestLink

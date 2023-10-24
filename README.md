@@ -1,28 +1,28 @@
-# Hello, I'm Mohammad Sumon 👋
+# Mohammad Sumon - Software Quality Assurance Engineer 👋
 
 ## About Me
 
-I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitment to ensuring software reliability and quality. I have experience in manual and automated testing, test case design, and continuous integration.
+I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with a profound commitment to upholding software reliability and quality. I possess extensive experience in both manual and automated testing, test case design, and the implementation of continuous integration.
 
-- 🔬 Constantly learning and exploring new testing methodologies
-- 🌐 Active open-source contributor
-- 🚀 Enthusiastic about automation and CI/CD
-- 💡 Dedicated to improving software quality and user experiences
+- 🔬 I am constantly engaged in the pursuit of knowledge, exploring new testing methodologies to stay at the forefront of industry best practices.
+- 🌐 I actively contribute to open-source projects, fostering collaboration and innovation in the software development community.
+- 🚀 My enthusiasm lies in automation and Continuous Integration/Continuous Deployment (CI/CD) processes, optimizing software development workflows.
+- 💡 I am unwavering in my mission to enhance software quality and improve user experiences.
 
 ## Skills
 
-- **Testing**: Manual and Automated Testing, Test Case Design, Test Planning, Database Testing, Regression Testing
-- **Automation Tools**: Selenium, Appium, JUnit, TestNG
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, Travis CI, GitLab CI
-- **Version Control**: Git
-- **Programming Languages**: Java, Python , C , C++ , PHP, JavaScript
-- **Framework**: Laravel
-- **Bug Tracking Tools**: Jira
-- **API Testing**: Postman
-- **Test Management Tools**: TestRail, TestLink
+- **Testing**: Proficient in manual and automated testing, adept at test case design, test planning, and conducting database and regression testing.
+- **Automation Tools**: Skilled in using Selenium, Appium, JUnit, and TestNG for automated testing.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Experienced with CI/CD tools such as Jenkins, Travis CI, and GitLab CI to facilitate seamless software delivery.
+- **Version Control**: Proficient in Git for effective version control.
+- **Programming Languages**: Well-versed in Java, Python, C, C++, PHP, and JavaScript.
+- **Framework**: Familiar with Laravel.
+- **Bug Tracking Tools**: Proficient in Jira for efficient bug tracking and management.
+- **API Testing**: Skilled in using Postman for API testing.
+- **Test Management Tools**: Experienced in utilizing TestRail and TestLink for efficient test case and test management.
 
+## Projects
 
-## Project
 - [Task Management System (Manual Testing)](https://github.com/sumu9897/Task-Management)
 - [Shajgoj (Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
 - [Easel Architects (Website Testing)](https://github.com/sumu9897/Easel-Architects)
@@ -30,15 +30,13 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a strong commitm
 - [Hotel Management System (SQA Project)](https://github.com/sumu9897/S-Q-T)
 - [Product Management System (Website)](https://github.com/sumu9897/Product-Management-System)
 
-
-
 ## Let's Connect
 
-Feel free to connect with me and explore my projects:
+Please feel free to connect with me and explore my projects:
 
 - GitHub: [sumu9897](https://github.com/sumu9897)
 - LinkedIn: [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
 - Twitter: [@sumu9897](https://twitter.com/sumu9897)
-- Email : mohammad.sumon9897@gmail.com
+- Email: mohammad.sumon9897@gmail.com
 
-If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out. I'm always open to new challenges and interesting projects!
+If you have any questions, suggestions, or collaboration opportunities, do not hesitate to reach out. I am always open to new challenges and interesting projects!

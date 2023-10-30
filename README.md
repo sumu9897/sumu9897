@@ -16,7 +16,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Experienced with CI/CD tools such as Jenkins, Travis CI, and GitLab CI to facilitate seamless software delivery.
 - **Version Control**: Proficient in Git for effective version control.
 - **Programming Languages**: Well-versed in Java, Python, C, C++, PHP, and JavaScript.
-- **Framework**: Familiar with Laravel.
+- **Framework**: Familiar with Laravel, Angular
 - **Bug Tracking Tools**: Proficient in Jira for efficient bug tracking and management.
 - **API Testing**: Skilled in using Postman for API testing.
 - **Test Management Tools**: Experienced in utilizing TestRail and TestLink for efficient test case and test management.

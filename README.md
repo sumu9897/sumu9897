@@ -40,6 +40,6 @@ Please feel free to connect with me and explore my projects:
 - GitHub : [sumu9897](https://github.com/sumu9897)
 - LinkedIn : [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
 - Twitter : [@sumu9897](https://twitter.com/sumu9897)
-- Email : [mohammad.sumon9897@gmail.com](mohammad.sumon9897@gmail.com)
+- Email : mohammad.sumon9897@gmail.com
 
 If you have any questions, suggestions, or collaboration opportunities, do not hesitate to reach out. I am always open to new challenges and interesting projects!

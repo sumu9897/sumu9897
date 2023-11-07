@@ -24,7 +24,6 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 ## Projects
 
 - Task Management System [(Manual Testing)](https://github.com/sumu9897/Task-Management)
-
 - Pharmacy Management System [(Web App)](https://github.com/sumu9897/Pharmacy-M-S)
 - Easel Architects [(Website Testing)](https://github.com/sumu9897/Easel-Architects)
 - Khuje Dekhi [(Website)](https://khujedekhi.com/)
@@ -32,7 +31,10 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 - Product Management System [(Website)](https://github.com/sumu9897/Product-Management-System)
 - Shajgoj [(Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
 - Hotel Management System [(SQA Project)](https://github.com/sumu9897/S-Q-T)
+- 
+## Ongoing Projects
 
+- Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
 
 
 ## Let's Connect

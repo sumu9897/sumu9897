@@ -35,7 +35,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 ## Ongoing Projects
 - Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
 - JMI syringes & medical devices ltd
-- Mazzak Trade [Website](https://github.com/sumu9897/Mazzak-Trade-Website)
+- Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
 
 
 ## Let's Connect

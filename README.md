@@ -23,6 +23,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 
 ## Projects
 
+- JMI Group Website [(Manual Testing)](https://github.com/sumu9897/JMI-Group-Test)
 - Task Management System [(Manual Testing)](https://github.com/sumu9897/Task-Management)
 - Pharmacy Management System [(Web App)](https://github.com/sumu9897/Pharmacy-M-S)
 - Easel Architects & Engineers [(Website Testing)](https://github.com/sumu9897/Easel-Architects)

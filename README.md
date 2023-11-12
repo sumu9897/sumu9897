@@ -34,6 +34,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 - Hotel Management System [(SQA Project)](https://github.com/sumu9897/S-Q-T)
   
 ## Ongoing Projects
+- JMI Industrial Gas Limited (JIGL) [(Website Testing)](https://github.com/sumu9897/JMI-Gas)
 - Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
 - JMI syringes & medical devices ltd
 - Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)

@@ -39,9 +39,6 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 - JMI syringes & medical devices ltd
 - Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
   
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
 
 ## Let's Connect
 
@@ -51,5 +48,9 @@ Please feel free to connect with me and explore my projects:
 - LinkedIn : [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
 - Twitter : [@sumu9897](https://twitter.com/sumu9897)
 - Email : mohammad.sumon9897@gmail.com
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
+
 
 If you have any questions, suggestions, or collaboration opportunities, do not hesitate to reach out. I am always open to new challenges and interesting projects!

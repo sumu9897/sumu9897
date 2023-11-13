@@ -48,6 +48,11 @@ Please feel free to connect with me and explore my projects:
 - LinkedIn : [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
 - Twitter : [@sumu9897](https://twitter.com/sumu9897)
 - Email : mohammad.sumon9897@gmail.com
+
+## GitHub Stats
+
+![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)
+
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)

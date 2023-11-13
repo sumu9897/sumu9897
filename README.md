@@ -57,5 +57,7 @@ Please feel free to connect with me and explore my projects:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact)
+
 
 If you have any questions, suggestions, or collaboration opportunities, do not hesitate to reach out. I am always open to new challenges and interesting projects!

@@ -25,7 +25,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 
 - JMI Group Website [(Manual Testing)](https://github.com/sumu9897/JMI-Group-Test)
 - Task Management System [(Manual Testing)](https://github.com/sumu9897/Task-Management)
-- NIPRO JMI MEDICAL [(Website Testing)]
+- NIPRO JMI MEDICAL [(Website Testing)](https://github.com/sumu9897/NIPRO-JMI-MEDICAL)
 - Pharmacy Management System [(Web App)](https://github.com/sumu9897/Pharmacy-M-S)
 - Easel Architects & Engineers [(Website Testing)](https://github.com/sumu9897/Easel-Architects)
 - Khuje Dekhi [(Website)](https://khujedekhi.com/)

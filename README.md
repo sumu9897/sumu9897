@@ -12,6 +12,7 @@ I am Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engineer with 
 ## Skills
 
 - **Testing**: Proficient in manual and automated testing, adept at test case design, test planning, and conducting database and regression testing.
+- **Tools**: JIRA, Trelloo, QA Touch
 - **Automation Tools**: Skilled in using Selenium, Appium, JUnit, and TestNG for automated testing.
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Experienced with CI/CD tools such as Jenkins, Travis CI, and GitLab CI to facilitate seamless software delivery.
 - **Version Control**: Proficient in Git for effective version control.

@@ -66,4 +66,9 @@ Connect with me and explore more about my projects:
 
 
 
-If you have any questions, suggestions, or collaboration opportunities, do not hesitate to reach out. I am always open to new challenges and interesting projects!
+Thanks for stopping by! Feel free to reach out for any questions, suggestions, or collaboration opportunities. I'm always open to new challenges and interesting projects!
+
+
+
+
+

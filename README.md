@@ -11,17 +11,22 @@ Greetings! I'm Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engi
 
 ## Skills
 
-- **Testing**:
+**Testing**
 - Proficient in manual and automated testing.
 - Adept at test case design, test planning, and conducting database and regression testing.
 
-- **Tools**: J
-- IRA, TestRail, Trello, QA Touch.
-- **Automation Tools**: Skilled in using Selenium, Appium, JUnit, and TestNG for automated testing.
-- **CI/CD**: Experienced with Jenkins, Travis CI, and GitLab CI for seamless software delivery.
-- **Version Control**: Proficient in Git for effective version control.
-- **Programming Languages**: Well-versed in Java, Python, C, C++, PHP, and JavaScript.
-- **Framework**: Familiar with Laravel, Angular.
+  **Tools**
+- JIRA, TestRail, Trello, QA Touch.
+  **Automation Tools**
+  -Selenium, Appium, JUnit, TestNG.
+  **CI/CD**
+  -Jenkins, Travis CI, GitLab CI.
+  **Version Control**
+  -Git for effective version control.
+  **Programming Languages**
+  -Java, Python, C, C++, PHP, JavaScript.
+  **Framework**
+- Laravel, Angular.
 - **Bug Tracking Tools**: Proficient in Jira for efficient bug tracking and management.
 - **API Testing**: Skilled in using Postman and Apidog for API testing.
 - **Test Management Tools**: Experienced in utilizing TestRail and TestLink for efficient test case and test management.

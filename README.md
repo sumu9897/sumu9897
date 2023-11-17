@@ -84,7 +84,7 @@ Connect with me and explore more about my projects:
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumu9897&label=Profile%20views&color=0e75b6&style=flat" alt="sumu9897" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumu9897" alt="sumu9897" /></a> </p>
 

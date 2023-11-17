@@ -84,6 +84,11 @@ Connect with me and explore more about my projects:
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumu9897&label=Profile%20views&color=0e75b6&style=flat" alt="sumu9897" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumu9897" alt="sumu9897" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 Thanks for stopping by! Feel free to reach out for any questions, suggestions, or collaboration opportunities. I'm always open to new challenges and interesting projects!

@@ -49,21 +49,22 @@ Explore some of my notable projects:
 - JMI Group Website [(Manual Testing)](https://github.com/sumu9897/JMI-Group-Test)
 - Task Management System [(Manual Testing)](https://github.com/sumu9897/Task-Management)
 - NIPRO JMI MEDICAL [(Website Testing)](https://github.com/sumu9897/NIPRO-JMI-MEDICAL)
+- JMI Industrial Gas Limited (JIGL) [(Website Testing)](https://github.com/sumu9897/JMI-Gas)
 - Pharmacy Management System [(Web App)](https://github.com/sumu9897/Pharmacy-M-S)
 - NIPRO JMI Pharma [(Website Testing)](https://github.com/sumu9897/NIPRO-JMI-Pharma)
 - Easel Architects & Engineers [(Website Testing)](https://github.com/sumu9897/Easel-Architects)
 - Khuje Dekhi [(Website)](https://khujedekhi.com/)
+- Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
 - Nipro Dialysis App [(Manual Testing)](https://github.com/sumu9897/Nipro-Dialysis-App)
-- Product Management System [(Website)](https://github.com/sumu9897/Product-Management-System)
 - Shajgoj [(Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
 - Hotel Management System [(SQA Project)](https://github.com/sumu9897/S-Q-T)
   
 ## Ongoing Projects
 Stay tuned for updates on my ongoing projects:
-- JMI Industrial Gas Limited (JIGL) [(Website Testing)](https://github.com/sumu9897/JMI-Gas)
-- Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
+
 - JMI Syringes & Medical Devices Ltd
 - Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
+- Product Management System [(Website)](https://github.com/sumu9897/Product-Management-System)
   
 
 ## Let's Connect

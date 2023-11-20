@@ -64,7 +64,7 @@ Stay tuned for updates on my ongoing projects:
 
 - JMI Syringes & Medical Devices Ltd
 - Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
-- Product Management System [(Website)](https://github.com/sumu9897/Product-Management-System)
+- Product Management System [(Web App)](https://github.com/sumu9897/Product-Management-System)
   
 
 ## Let's Connect

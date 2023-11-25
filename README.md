@@ -11,69 +11,69 @@ Greetings! I'm Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engi
 
 ## Skills
 
-**Testing**
+### Testing
 - Proficient in manual and automated testing.
 - Adept at test case design, test planning, and conducting database and regression testing.
 
-**Tools**
+### Tools
 - JIRA, TestRail, Trello, QA Touch.
-  
-**Automation Tools**
+
+### Automation Tools
 - Selenium, Appium, JUnit, TestNG.
-  
-**CI/CD**
+
+### CI/CD
 - Jenkins, Travis CI, GitLab CI.
-  
-**Version Control**
+
+### Version Control
 - Git for effective version control.
-  
-**Programming Languages**
+
+### Programming Languages
 - Java, Python, C, C++, PHP, JavaScript.
-  
-**Framework**
+
+### Framework
 - Laravel, Angular.
-  
-**Bug Tracking Tools**
+
+### Bug Tracking Tools
 - Jira for efficient bug tracking and management.
-  
-**API Testing**
+
+### API Testing
 - Postman, Apidog for API testing.
-  
-**Test Management Tools**
+
+### Test Management Tools
 - TestRail, TestLink for efficient test case and test management.
 
-
 ## Projects
+
 Explore some of my notable projects:
 
-- JMI Group Website [(Manual Testing)](https://github.com/sumu9897/JMI-Group-Test)
-- Task Management System [(Manual Testing)](https://github.com/sumu9897/Task-Management)
-- NIPRO JMI MEDICAL [(Website Testing)](https://github.com/sumu9897/NIPRO-JMI-MEDICAL)
-- JMI Industrial Gas Limited (JIGL) [(Website Testing)](https://github.com/sumu9897/JMI-Gas)
-- Pharmacy Management System [(Web App)](https://github.com/sumu9897/Pharmacy-M-S)
-- NIPRO JMI Pharma [(Website Testing)](https://github.com/sumu9897/NIPRO-JMI-Pharma)
-- Easel Architects & Engineers [(Website Testing)](https://github.com/sumu9897/Easel-Architects)
-- Khuje Dekhi [(Website)](https://khujedekhi.com/)
-- Takumi [(Manual Testing)](https://github.com/sumu9897/Takumi)
-- Nipro Dialysis App [(Manual Testing)](https://github.com/sumu9897/Nipro-Dialysis-App)
-- Shajgoj [(Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
-- Hotel Management System [(SQA Project)](https://github.com/sumu9897/S-Q-T)
-  
+- [JMI Group Website (Manual Testing)](https://github.com/sumu9897/JMI-Group-Test)
+- [Task Management System (Manual Testing)](https://github.com/sumu9897/Task-Management)
+- [NIPRO JMI MEDICAL (Website Testing)](https://github.com/sumu9897/NIPRO-JMI-MEDICAL)
+- [JMI Industrial Gas Limited (JIGL) (Website Testing)](https://github.com/sumu9897/JMI-Gas)
+- [Pharmacy Management System (Web App)](https://github.com/sumu9897/Pharmacy-M-S)
+- [NIPRO JMI Pharma (Website Testing)](https://github.com/sumu9897/NIPRO-JMI-Pharma)
+- [Easel Architects & Engineers (Website Testing)](https://github.com/sumu9897/Easel-Architects)
+- [Khuje Dekhi (Website)](https://khujedekhi.com/)
+- [Takumi (Manual Testing)](https://github.com/sumu9897/Takumi)
+- [Nipro Dialysis App (Manual Testing)](https://github.com/sumu9897/Nipro-Dialysis-App)
+- [Shajgoj (Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
+- [Hotel Management System (SQA Project)](https://github.com/sumu9897/S-Q-T)
+
 ## Ongoing Projects
+
 Stay tuned for updates on my ongoing projects:
 
 - JMI Syringes & Medical Devices Ltd
-- Mazzak Trade [(Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
-- Product Management System [(Web App)](https://github.com/sumu9897/Product-Management-System)
-  
+- [Mazzak Trade (Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
+- [Product Management System (Web App)](https://github.com/sumu9897/Product-Management-System)
 
 ## Let's Connect
 
 Connect with me and explore more about my projects:
-- GitHub : [sumu9897](https://github.com/sumu9897)
-- LinkedIn : [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
-- Twitter : [@sumu9897](https://twitter.com/sumu9897)
-- Email : mohammad.sumon9897@gmail.com
+- GitHub: [sumu9897](https://github.com/sumu9897)
+- LinkedIn: [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
+- Twitter: [@sumu9897](https://twitter.com/sumu9897)
+- Email: mohammad.sumon9897@gmail.com
 
 ## GitHub Stats
 
@@ -84,17 +84,16 @@ Connect with me and explore more about my projects:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumu9897" alt="sumu9897" />
+  </a>
+</p>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumu9897" alt="sumu9897" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
 
 Thanks for stopping by! Feel free to reach out for any questions, suggestions, or collaboration opportunities. I'm always open to new challenges and interesting projects!
-
-
-
-
-

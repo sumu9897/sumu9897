@@ -10,7 +10,7 @@ Greetings! I'm Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engi
 - 💡 On a mission to enhance software quality and improve user experiences.
 
 ## Skills
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=an-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="an-nihal" /> </p>
 ### Testing
 - Proficient in manual and automated testing.
 - Adept at test case design, test planning, and conducting database and regression testing.

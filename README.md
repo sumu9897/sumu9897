@@ -76,6 +76,14 @@ Connect with me and explore more about my projects:
 - Twitter: [@sumu9897](https://twitter.com/sumu9897)
 - Email: mohammad.sumon9897@gmail.com
 
+## Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sumu9897&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+</p>
+
+
 ## GitHub Stats
 
 ![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)

@@ -92,7 +92,7 @@ Connect with me and explore more about my projects:
 ## Current overview
 <div>
 <div align="center">
-<a href="https://app.daily.dev/mohammadsumon"><img src="https://api.daily.dev/devcards/ebba5d4d9f5f41e1a77ca91663611c21.png?r=0z5" width="400" alt="Mohammad Sumon's Dev Card"/></a>
+<a href="https://app.daily.dev/mohammadsumon"><img src="https://api.daily.dev/devcards/ebba5d4d9f5f41e1a77ca91663611c21.png?r=mmm" width="400" alt="Mohammad Sumon's Dev Card"/></a>
 </div>
 
 ## Profile Views

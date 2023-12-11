@@ -89,6 +89,12 @@ Connect with me and explore more about my projects:
 ![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact)
 
+##Current overview
+<div>
+<div align="center">
+<a href="https://app.daily.dev/mohammadsumon"><img src="https://api.daily.dev/devcards/ebba5d4d9f5f41e1a77ca91663611c21.png?r=0z5" width="400" alt="Mohammad Sumon's Dev Card"/></a>
+</div>
+
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumu9897&color=brightgreen)

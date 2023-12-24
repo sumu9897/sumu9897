@@ -29,7 +29,7 @@ Greetings! I'm Mohammad Sumon, a dedicated Software Quality Assurance (SQA) Engi
 - Git for effective version control.
 
 ### Programming Languages
-- Java, Python, C, C++, PHP, JavaScript.
+- Java, Python, C, C++, PHP, JavaScript, Dart.
 
 ### Framework
 - Laravel, Angular.

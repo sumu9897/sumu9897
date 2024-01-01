@@ -60,19 +60,12 @@ Explore some of my notable projects:
 - [Shajgoj (Test Case)](https://github.com/sumu9897/Test-Case/tree/main/Shajgoj)
 - [Hotel Management System (SQA Project)](https://github.com/sumu9897/S-Q-T)
 
-## Ongoing Projects
-
-Stay tuned for updates on my ongoing projects:
-
-- JMI Syringes & Medical Devices Ltd
-- [Mazzak Trade (Website)](https://github.com/sumu9897/Mazzak-Trade-Website)
-- [Product Management System (Web App)](https://github.com/sumu9897/Product-Management-System)
-
 ## Let's Connect
 
 Connect with me and explore more about my projects:
 - GitHub: [sumu9897](https://github.com/sumu9897)
 - LinkedIn: [Mohammad Sumon](https://www.linkedin.com/in/md-sumon9897/)
+- Codepen: [Mohammad Sumon](https://codepen.io/mohammad-sumu)
 - Twitter: [@sumu9897](https://twitter.com/sumu9897)
 - Email: mohammad.sumon9897@gmail.com
 

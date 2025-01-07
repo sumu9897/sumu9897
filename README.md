@@ -47,23 +47,16 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 
 I’m always open to networking, collaboration, and discussing innovative ideas in web development and technology. Feel free to connect with me through any of the platforms below:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumu9897)  
-  Explore my open-source contributions, code repositories, and project collaborations.
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-sumon9897/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://codepen.io/mohammad-sumu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+</div>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sumon9897/)  
-  Let’s connect professionally to discuss opportunities, industry insights, and career development.
-
-- [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohammadsumon/)  
-  View my problem-solving skills and algorithm challenges on Leetcode.
-
-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mohammad-sumu)  
-  Discover my front-end experiments and UI/UX design components on Codepen.
-
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumu9897)  
-  Follow me for industry trends, tech insights, and personal updates.
-
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.sumon9897@gmail.com)  
-  For inquiries, collaborations, or just to say hello, reach me directly via email.
+###
 
 
 ## Current Stats

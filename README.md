@@ -56,15 +56,7 @@ I’m always open to networking, collaboration, and discussing innovative ideas 
   </a>
 </div>
 
-###
 
-
-## Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sumu9897&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
-</p>
 
 
 ## GitHub Stats

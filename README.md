@@ -14,10 +14,12 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 - 🌍 Developing a real estate website, focusing on seamless user experience, advanced property search functionality, and optimized performance.
 
 
-## 🛠Skills
-### Frontend  
+## 🛠 Skills  
+
+### 🚀 Frontend Development  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -26,7 +28,7 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
 </div>  
 
-### Backend  
+### ⚙️ Backend Development  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
@@ -34,48 +36,66 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>  
 
-### Database  
+### 🛢️ Database & Authentication  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" height="40" alt="Clerk" />
 </div>  
 
-### Tools  
+### 🛠 Tools & Development  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="Postman" />
 </div>  
 
 ---
 
+
 ###
 
-## 🔗Let's Connect
+## 🔗 Let's Connect  
 
-I’m always open to networking, collaboration, and discussing innovative ideas in web development and technology. Feel free to connect with me through any of the platforms below:
+I’m always open to networking, collaborating, and discussing innovative ideas in web development and technology. Feel free to connect with me on any of the platforms below:  
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/md-sumon9897/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
   <a href="https://codepen.io/mohammad-sumu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>  
+
 </div>
 
 
 
 
-## 📊GitHub Stats
 
-![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact)
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
-<br>
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  <a href="https://github.com/sumu9897">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/sumu9897">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  
+  <a href="https://github.com/sumu9897">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumu9897&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+
+</div>
+
 
 ## Current overview
 <div>

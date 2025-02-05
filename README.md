@@ -86,18 +86,15 @@ I’m always open to networking, collaborating, and discussing innovative ideas 
 <div align="center">
   
   <a href="https://github.com/sumu9897">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/sumu9897">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
-  
-  <a href="https://github.com/sumu9897">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumu9897&theme=tokyonight" alt="GitHub Streak" />
-  </a>
 
 </div>
+
 
 
 ## Current overview

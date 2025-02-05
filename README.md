@@ -8,6 +8,12 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 - 💡 Committed to continuous learning and improvement, contributing to open-source projects, and staying up-to-date with industry trends.
 - 🌐 Dedicated to ensuring seamless user experiences and optimized web performance through efficient coding practices..
 
+
+## 🚀 Current Activities
+- 🔥 Exploring Next.js and GraphQL.
+- 🌍 Working on a real estate website project.
+
+
 ## Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

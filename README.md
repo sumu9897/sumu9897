@@ -74,6 +74,8 @@ I’m always open to networking, collaboration, and discussing innovative ideas 
 
 ![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<br>
 
 ## Current overview
 <div>

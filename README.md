@@ -10,8 +10,8 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 
 
 ## 🚀 Current Activities
-- 🔥 Exploring Next.js and GraphQL.
-- 🌍 Working on a real estate website project.
+- 🔥Exploring Next.js and TypeScript to enhance scalability and maintainability in modern web applications.
+- 🌍 Developing a real estate website, focusing on seamless user experience, advanced property search functionality, and optimized performance.
 
 
 ## 🛠Skills

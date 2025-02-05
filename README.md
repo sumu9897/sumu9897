@@ -74,7 +74,9 @@ I’m always open to networking, collaborating, and discussing innovative ideas 
   <a href="https://codepen.io/mohammad-sumu" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>  
-
+  <a href="mailto:mohammad.sumon9897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 

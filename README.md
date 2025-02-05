@@ -14,7 +14,7 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 - 🌍 Working on a real estate website project.
 
 
-## Skills
+## 🛠Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@ Hi there! I'm Mohammad Sumon, a passionate MERN Stack Developer with a solid bac
 
 ###
 
-## Let's Connect
+## 🔗Let's Connect
 
 I’m always open to networking, collaboration, and discussing innovative ideas in web development and technology. Feel free to connect with me through any of the platforms below:
 
@@ -65,7 +65,7 @@ I’m always open to networking, collaboration, and discussing innovative ideas 
 
 
 
-## GitHub Stats
+## 📊GitHub Stats
 
 ![Mohammad Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact)

@@ -48,7 +48,7 @@ const MohammadSumon = {
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/cypress.png" width="40"/><br/><sub><b>Cypress</b></sub>
+      <img src="https://i.ibb.co.com/CFH2DPB/cy.png" width="40"/><br/><sub><b>Cypress</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="40"/><br/><sub><b>Selenium</b></sub>

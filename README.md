@@ -54,13 +54,13 @@ const MohammadSumon = {
       <img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="40"/><br/><sub><b>Selenium</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/playwright.png" width="40"/><br/><sub><b>Playwright</b></sub>
+      <img src="https://i.ibb.co.com/r8QMh0c/playwright.png" width="40"/><br/><sub><b>Playwright</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/jest.png" width="40"/><br/><sub><b>Jest</b></sub>
+      <img src="https://i.ibb.co.com/ynS2q4H5/jest.webp" width="40"/><br/><sub><b>Jest</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/mocha.png" width="40"/><br/><sub><b>Mocha</b></sub>
+      <img src="https://i.ibb.co.com/JwTR028t/mocha.png" width="40"/><br/><sub><b>Mocha</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://i.ibb.co.com/6WfWnFK/postman.png" width="40"/><br/><sub><b>Postman</b></sub>
@@ -74,10 +74,10 @@ const MohammadSumon = {
       <img src="https://img.icons8.com/color/48/clickup.png" width="40"/><br/><sub><b>ClickUp</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/test-activities.png" width="40"/><br/><sub><b>TestRail</b></sub>
+      <img src="https://i.ibb.co.com/9HqXyGbk/testrail.png" width="40"/><br/><sub><b>TestRail</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/apache-maven.png" width="40"/><br/><sub><b>Maven</b></sub>
+      <img src="https://i.ibb.co.com/hJP9tv9c/maven.png" width="40"/><br/><sub><b>Maven</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/bug.png" width="40"/><br/><sub><b>Manual QA</b></sub>

@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=60A5FA&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Sumon;SQA+Engineer+%7C+MERN+Developer;Quality-First+%7C+Full-Stack+Builder" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://i.ibb.co/MkVSrQWD/Mohammad-Sumon.png" alt="Mohammad Sumon Banner" width="100%" style="border-radius:12px;" />
+  <img src="https://i.ibb.co/M52MXjTs/sumu.png" alt="Mohammad Sumon Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <p align="center">

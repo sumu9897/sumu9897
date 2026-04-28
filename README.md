@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=60A5FA&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Sumon;SQA+Engineer+%7C+MERN+Developer;Quality-First+%7C+Full-Stack+Builder" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=60A5FA&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Sumon;MERN+Stack+Developer+%7C+SQA+Engineer;Quality-First+%7C+Full-Stack+Builder;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://i.ibb.co/M52MXjTs/sumu.png" alt="Mohammad Sumon Banner" width="100%" style="border-radius:12px;" />
@@ -14,13 +14,21 @@
   <a href="mailto:mohammad.sumon9897@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://mohammadsumon.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://twitter.com/sumu9897">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://codepen.io/mohammad-sumu">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumu9897&style=for-the-badge&color=60a5fa&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/sumu9897?style=for-the-badge&color=60a5fa&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/sumu9897?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=TOTAL+STARS" />
 </p>
 
 ---
@@ -29,11 +37,12 @@
 
 ```ts
 const MohammadSumon = {
-  role        : ["SQA Engineer", "MERN Stack Developer"],
+  role        : ["MERN Stack Developer", "SQA Engineer", "SDET"],
   location    : "Dhaka, Bangladesh 🇧🇩",
-  education   : ["MBA @ AIUB (MIS) — Running", "BSc CS @ AIUB (Software Eng) — 2024"],
+  education   : ["MBA @ AIUB (MIS) — Running", "BSc CSE @ AIUB — Distinction (2024)"],
   currentWork : ["Building quality-first full-stack web applications",
-                 "Designing end-to-end test strategies with Cypress & Selenium"],
+                 "Designing end-to-end test strategies with Cypress & Selenium",
+                 "Exploring CI/CD pipelines with GitHub Actions"],
   openTo      : ["Full-Time Roles", "Freelance Projects", "SQA Contracts"],
   contact     : "mohammad.sumon9897@gmail.com",
 };
@@ -145,28 +154,84 @@ const MohammadSumon = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu9897&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu9897&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8&langs_count=8&hide=less,scss" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumu9897&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=a78bfa&currStreakLabel=60a5fa" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumu9897&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=a78bfa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumu9897&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60a5fa&line=6366f1&point=a78bfa" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumu9897&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60a5fa&line=6366f1&point=a78bfa&area=true&area_color=6366f1" />
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumu9897&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumu9897&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
+---
+
+## 🎖️ Achievements & Milestones
+
+<p align="center">
+
+| 🏅 Milestone | 📈 Count |
+|:---:|:---:|
+| ⭐ Total Stars Earned | **74+** |
+| 🔥 Total Commits (All Time) | **3,040+** |
+| 📦 Public Repositories | **316+** |
+| 👀 Profile Views | **6,280+** |
+| 🤝 Contributions (Last Year) | **740+** |
+
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sumu9897&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumu9897/sumu9897/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumu9897/sumu9897/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumu9897/sumu9897/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> ⚙️ To enable the snake animation, add this GitHub Actions workflow to `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 0 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: sumu9897
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -204,10 +269,13 @@ const MohammadSumon = {
   <a href="https://wa.me/8801731057540">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://mohammadsumon.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&pause=1000&color=475569&center=true&width=600&lines=Open+to+SQA+Engineer+%26+MERN+Developer+roles;Available+for+freelance+%26+full-time+positions;Building+quality-first+web+applications+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&pause=1000&color=475569&center=true&width=650&lines=Open+to+SQA+Engineer+%26+MERN+Developer+roles;Available+for+freelance+%26+full-time+positions;Building+quality-first+web+applications+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" />
 </p>
 
 <p align="center">
